@@ -1,0 +1,15 @@
+NUMAIRDEV — GITHUB QUICK START
+
+1. Create a GitHub account; choose username numairdev if available.
+2. Create a PUBLIC repository named exactly numairdev.
+3. Upload README.md to its root, replacing the default README.
+4. For each site, create a separate PUBLIC repository, e.g. aether-vault.
+5. Upload extracted source files (index.html, style.css, app.js, assets/).
+6. Repository -> Settings -> Pages -> Deploy from branch -> main -> /(root) -> Save.
+7. Visit https://numairdev.github.io/aether-vault/ after deployment succeeds.
+8. Repeat for vortex-motors and nebula-space.
+
+NOTE: If your username is different, update README demo links accordingly.
+NOTE: Verify 3D asset licenses before uploading or distributing downloaded models.
+NOTE: GitHub Pages hosts static sites; it does not execute Node.js backend servers.
+NOTE: Do not commit secrets, passwords, .env files, or API keys.
