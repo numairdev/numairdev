@@ -34,7 +34,6 @@
 | **VORTEX MOTORS** | Interactive 3D automotive studio | [Explore](https://numairdev.github.io/vortex-motors/) |
 | **NEBULA SPACE** | Interactive solar system experience | [Explore](https://numairdev.github.io/nebula-space/) |
 
-> **Note:** Demo links above will work once you publish the repositories with these names using GitHub Pages. Update or remove links for projects you haven't deployed.
 
 ### 🎯 My Focus
 
